@@ -1,0 +1,15 @@
+C:\gb_sharp\lesson1_helloworld\bin\Debug\net6.0\lesson1_helloworld.exe
+C:\gb_sharp\lesson1_helloworld\bin\Debug\net6.0\lesson1_helloworld.deps.json
+C:\gb_sharp\lesson1_helloworld\bin\Debug\net6.0\lesson1_helloworld.runtimeconfig.json
+C:\gb_sharp\lesson1_helloworld\bin\Debug\net6.0\lesson1_helloworld.dll
+C:\gb_sharp\lesson1_helloworld\bin\Debug\net6.0\lesson1_helloworld.pdb
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.csproj.AssemblyReference.cache
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.AssemblyInfoInputs.cache
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.AssemblyInfo.cs
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.csproj.CoreCompileInputs.cache
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.dll
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\refint\lesson1_helloworld.dll
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.pdb
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\lesson1_helloworld.genruntimeconfig.cache
+C:\gb_sharp\lesson1_helloworld\obj\Debug\net6.0\ref\lesson1_helloworld.dll
